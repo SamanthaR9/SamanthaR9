@@ -3,19 +3,21 @@
 I’m learning data analytics and building projects in Python, SQL, and visualisation tools to develop practical, job-ready skills. My background is in Literature and Cinema, combining storytelling with data to turn insights into meaningful narratives.
 
 
-## What I have learnt: 
+## Projects: 
 
-- **Excel and data basics**
+### **Excel and data basics**
 <br>[Pivot Table and Visualisation Chart 1](Bike-Sales-Excel5.png)
 <br>[Visualisation Chart 2](Bike-Sales-Excel4.png)
-<br> With the given dataset on Bike Sales, I created a visualisation using a stacked bar chart which shows that the most profitable market is Australia, with a total of 63 sales, and consistent sales within each age group and gender. Across all countries and age groups, Female customers purchase more than Male customers. The Youth age category (under 25) have the least amount of sales (27).
+<br>With the given dataset which shows KPIs from bike sales, I created pivot tables and a stacked bar chart to visually show my findings. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales (27). 
 
-- Python / Google Colab 
+### Python / Google Colab 
 
-- SQL / MySQL Workbench 
 
-- Tableau / Power BI dashboards 
+### SQL / MySQL Workbench 
 
+
+### Tableau / Power BI dashboards 
+<br>
 
 
 ## Some projects I have completed: 
