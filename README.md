@@ -4,7 +4,6 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 
 ## Projects: 
-
 ### **Excel and data basics**
 <br>[Pivot Table and Visualisation Chart 1](Bike-Sales-Excel5.png)
 <br>[Visualisation Chart 2](Bike-Sales-Excel4.png)
