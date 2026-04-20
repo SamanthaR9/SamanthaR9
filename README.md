@@ -24,11 +24,15 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ### Power BI
 
+<br>[Getting Data from Power BI Desktop]
+<br>[Load and Transform Data]
+<br>[Design a Report]
+<br>[Create a Power BI Dashboard]
 
 
 ## Some projects I have completed: 
 
-- Tableau - Used Tableau to investigate and create visulisations based on the GapMinder Health dataset which includes health statistics worldwide.
+
 
 - Power BI - Created a dashboard through Skillable using the Aventure Works dataset which shows sales information.
 
