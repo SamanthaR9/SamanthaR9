@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Samantha
 
-I’m learning data analytics and building projects in Python, SQL, and visualisation tools to develop practical, job-ready skills. My background is in Literature and Cinema, combining storytelling with data to turn insights into meaningful narratives.
+I’m learning data analytics and building projects in Python, SQL, and visualisation tools to develop practical, job-ready skills. My background is in Literature and Cinema, combining storytelling with data to turn insights into meaningful narratives. The following projects were completed during a Data Analysis short course which lasted around 7 weeks. 
 
 
 # :file_folder: Projects
@@ -11,7 +11,8 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 
 ## :snake: Python / Google Colab 
 [Python Coding](student.ipynb)<br>
-This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a dataset with student information to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. <br> 
+This project demonstrates my use of Python for data analysis within a Jupyter Notebook environment (Google Colab). I worked with datasets to clean, explore, and analyse data, applying core data analysis techniques in Python. For this project, I loaded a dataset with student information to explore and understand the structure, cleaned missing or inconsistent data, and extracted meaningful insights through the visualisations. By grouping and filtering the data, I was able to add a column for 'Grades' and analyse even further. <br>
+The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent grade overall, with most classes scoring on average between 70 and 80. Class Nine is an outlier, with a lower average of around 40. This significant performance gap requires attention, and if this were used in a school then it would indicate the need for different teaching methods, or extra resources.
 
 ## :card_file_box: SQL / MySQL Workbench 
 This project focused on relational data using the MySQL World dataset, which focuses on real-world analytical queries. I wrote and tested a range of SQL queries to understand how to extract, transform, and analyse structured data efficiently. I learned how to use:
