@@ -20,7 +20,8 @@ This project focused on relational data using the MySQL World dataset, which foc
 - Filtering / WHERE / LIKE
 - Grouping
 - Basic DDL (CREATE TABLE, INSERT, UPDATE)
-<br>View SQL script: [queries.sql](queries.sql)
+<br><br>View SQL script: [queries.sql](queries.sql)
+
 
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
