@@ -21,9 +21,10 @@ This project focused on relational data using the MySQL World dataset, which foc
 - Grouping
 - Basic DDL (CREATE TABLE, INSERT, UPDATE)
 
-<br><br>View SQL script: [queries.sql](queries.sql)
+<br>View SQL script: [queries.sql](queries.sql)
 
-<br><br>Database Schema ERD Diagram<br>![ERD Diagram](Country-ERD.png)<br>This diagram shows the relationships between the tables in the MySQL World dataset, including country, city, and countrylanguage.
+<br><br>### Database Schema ERD Diagram<br>![ERD Diagram](Country-ERD.png)
+<br>This diagram shows the relationships between the tables in the MySQL World dataset, including country, city, and countrylanguage.
 
 ### Tableau
 ![Tableau Dashboard](GapMinder-Tableau.png)
