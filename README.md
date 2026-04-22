@@ -14,7 +14,7 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 ## :bar_chart: Excel and data basics
 ![Pivot Table and Visualisation Chart 1](Bike-Sales-Excel5.png)
 <br> ![Visualisation Chart 2](Bike-Sales-Excel4.png)
-<br>With the given dataset which shows KPIs from bike sales, I created pivot tables and a stacked bar chart to visually show my findings. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
+<br>With the given dataset which shows KPIs from bike sales, my analysis through pivot tables and stacked bar charts shows where the company should focus sale efforts. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
 
 ## :snake: Python / Google Colab 
 [Python Coding](student.ipynb)<br>
@@ -22,6 +22,9 @@ This project demonstrates my use of Python for data analysis within a Jupyter No
 The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent grade overall, with most classes scoring on average between 70 and 80. Class Nine is an outlier, with a lower average of around 40. This significant performance gap requires attention, and if this were used in a school then it would indicate the need for different teaching methods, or extra resources.
 
 ## :card_file_box: SQL / MySQL Workbench 
+My objective was to 
+
+
 This project focused on relational data using the MySQL World dataset, which focuses on real-world analytical queries. I wrote and tested a range of SQL queries to understand how to extract, transform, and analyse structured data efficiently. I learned how to use:
 - Joins
 - Aggregations
