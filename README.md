@@ -28,14 +28,14 @@ My objective was to analyse a relational dataset to extract insights about count
 <br>Identify countries with the highest average city population to compare urban density across regions.
 
 ```sql
-SELECT<br>
-  country.Name AS country_name,<br>
-  AVG(city.Population) AS average_city_population<br>
-FROM city<br>
-JOIN country<br>
-  ON city.CountryCode = country.Code<br>
-GROUP BY country.Name<br>
-ORDER BY average_city_population DESC;<br>
+SELECT
+  country.Name AS country_name,
+  AVG(city.Population) AS average_city_population
+FROM city
+JOIN country
+  ON city.CountryCode = country.Code
+GROUP BY country.Name
+ORDER BY average_city_population DESC;
 <br>
 **Key Insights**
 - Larger countries show lower averages due to a wider distribution of smaller cities.
