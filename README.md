@@ -36,9 +36,9 @@ This performance gap highlights a potential imbalance in student outcomes. If ap
 
 ## 🗃️ SQL / MySQL Workbench 
 ### Relational Database Analysis of Global Population Data
-The World database contains relational data on countries, cities, and languages, linked through primary and foreign keys. It is suitable for SQL analysis as it enables exploration of population distribution and urban development patterns using joins, aggregations, and grouping.
+The World database contains relational data on countries, cities, and languages, linked through primary and foreign keys. It is suitable for SQL analysis as it enables exploration of population distribution using joins, aggregations, and grouping.
 
-In this project, I used SQL queries in MySQL Workbench to combine tables, calculate aggregated values such as averages, and filter and group data to identify patterns in global population distribution.
+In this project, I used SQL queries in MySQL Workbench to combine tables and calculate aggregated values such as averages, alongside filtering and grouping to identify patterns in global population data.
 
 <br>
 
@@ -58,16 +58,16 @@ ORDER BY average_city_population DESC;
 
 
 **Key Insights:**
-- Countries like Singapore and Hong Kong have the highest average due to highly concentrated urban populations.
-- Larger countries show lower averages due to a wider distribution of smaller cities.
-- This is important to note as it highlights how averages are influenced by the number of cities and population distribution, rather than size or wealth.
-- High urban concentration may refelct economic centralisation, where population and resources are clustered into a few major cities, which can distort comparisons and relationships between countries if not addressed. 
-<br>[View my full SQL script here](queries.md)
-<br>The ERD shows how the country, city, and countrylanguage tables are connected through primary and foreign keys, supporting accurate JOIN-based analysis.
 
+<br>[View my full SQL script here](queries.md)
+<br>
+- Singapore and Hong Kong have the highest averages due to highly concentrated urban populations.
+- Larger countries tend to have lower averages due to more dispersed city populations.
+- This shows that averages can be influenced by distribution rather than overall country size or wealth.
+- High urban concentration may reflect economic centralisation, where population is clustered in major cities.
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
-<br> 
+<br> The ERD shows how the country, city, and countrylanguage tables are connected through primary and foreign keys, supporting accurate JOIN-based analysis.
 
 ## 📊 Tableau
 ### Global Health and Life Expectancy Analysis in Tableau
