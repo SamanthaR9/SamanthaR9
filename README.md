@@ -22,7 +22,7 @@ This project demonstrates my use of Python for data analysis within a Jupyter No
 The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent grade overall, with most classes scoring on average between 70 and 80. Class Nine is an outlier, with a lower average of around 40. This significant performance gap requires attention, and if this were used in a school then it would indicate the need for different teaching methods, or extra resources.
 
 ## :card_file_box: SQL / MySQL Workbench 
-My objective was to analyse a relational dataset to extract insights about countries, cities, and population trends using structured queries. I approached this by querying the MySQL World dataset using joins to combine tables, aggregations (such as COUNT and AVG), subqueries for deeper analysis, and filtering and grouping.
+My objective was to analyse a relational dataset to extract insights about countries, cities, and population trends using structured queries. I approached this by querying the MySQL World dataset using joins to combine tables, aggregations (such as COUNT and AVG), subqueries for deeper analysis, and filtering and grouping.<br>
 <br>
 **Example Query:**
 <br>Identify countries with the highest average city population to compare urban density across regions.
