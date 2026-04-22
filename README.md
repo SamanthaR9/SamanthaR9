@@ -16,6 +16,7 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 This dataset contains sales performance data including country, customer, demographics, and sales KPIs. It allows for the analysis of profitability and customer behaviour across different markets. It includes structured data (tables) which make it suitable for Excel analysis.
 ![Pivot Table and Visualisation Chart 1](Bike-Sales-Excel5.png)
 <br> ![Visualisation Chart 2](Bike-Sales-Excel4.png)
+
 **Key Findings:**
 My analysis of the dataset focused on the pivot tables and stacked bar charts, which shows that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
 
@@ -55,7 +56,7 @@ JOIN country
 GROUP BY country.Name
 ORDER BY average_city_population DESC;
 ```
-<br>[View my full SQL script here](queries.md)
+[View my full SQL script here](queries.md)
 
 **Key Insights:**
 
