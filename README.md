@@ -91,10 +91,10 @@ The scatter plot explores the relationship between BMI and life expectancy. Ther
 - Population by Gender
 This chart allows comparison of male and female populations within a selected country. The distribution appears relatively balanced, which is typical in many developed nations, and the interactive filter enables comparisons across different countries.
 
-<br>In addition to the dashboard, I also developed individual worksheets to explore specific trends in more detail.
-
-Population Growth by Continent Over Time (Worksheet)
+<br>**Population Growth by Continent Over Time (Worksheet)**
 ![Population Growth by Continent Over Time](GapMinder-Prompt-Deliverable.png)
+In addition to the dashboard, I also developed individual worksheets to explore specific trends in more detail.
+
 This worksheet provides a focused view of population changes, making it easier to identify patterns and fluctuations. It highlights how growth trends differ significantly between regions, which could influence future policy and planning decisions.
 
 
