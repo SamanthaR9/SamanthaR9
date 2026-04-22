@@ -63,6 +63,7 @@ ORDER BY average_city_population DESC;
 - Larger countries tend to have lower averages due to more dispersed city populations.
 - This shows that averages can be influenced by distribution rather than overall country size or wealth.
 - High urban concentration may reflect economic centralisation, where population is clustered in major cities.
+  
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
 <br> The ERD shows how the country, city, and countrylanguage tables are connected through primary and foreign keys, supporting accurate JOIN-based analysis.
