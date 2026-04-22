@@ -16,7 +16,8 @@ I’m learning data analytics and building projects in Python, SQL, and visualis
 This dataset contains sales performance data including country, customer, demographics, and sales KPIs. It allows for the analysis of profitability and customer behaviour across different markets. It includes structured data (tables) which make it suitable for Excel analysis.
 ![Pivot Table and Visualisation Chart 1](Bike-Sales-Excel5.png)
 <br> ![Visualisation Chart 2](Bike-Sales-Excel4.png)
-<br>With the given dataset which shows KPIs from bike sales, my analysis through pivot tables and stacked bar charts shows where the company should focus sale efforts. The results show that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
+**Key Findings:**
+My analysis of the dataset focused on the pivot tables and stacked bar charts, which shows that the most profitable market is Australia, with a total of 63 sales, and that there are consistent sales within each age group and gender. Across all countries and age groups, female customers purchase more than male customers. The youth age category (under 25) have the least amount of sales. 
 
 ## 🐍 Python / Google Colab 
 ### Analyse Student Performance Dataset in Python
@@ -35,8 +36,10 @@ This performance gap highlights a potential imbalance in student outcomes. If ap
 
 ## 🗃️ SQL / MySQL Workbench 
 ### Relational Database Analysis of Global Population Data
-The World database contains relational data on countries, cities, and languages, connected through primary and foreign keys. It is appropriate for SQL analysis as it required joins, aggregations, and grouping to extract meaningful insights into population distribution and urban development patterns. 
-My objective was to analyse a relational dataset to extract insights about countries, cities, and population trends using structured queries. I approached this by querying the MySQL World dataset using joins to combine tables, aggregations (such as COUNT and AVG), subqueries for deeper analysis, and filtering and grouping.<br>
+The World database contains relational data on countries, cities, and languages, linked through primary and foreign keys. It is suitable for SQL analysis as it enables exploration of population distribution and urban development patterns using joins, aggregations, and grouping.
+
+In this project, I used SQL queries in MySQL Workbench to combine tables, calculate aggregated values such as averages, and filter and group data to identify patterns in global population distribution.
+
 <br>
 **Example Query:**
 <br>Identify countries with the highest average city population to compare urban density across regions and population distribution patterns across cities and countries.
@@ -59,11 +62,11 @@ ORDER BY average_city_population DESC;
 - This is important to note as it highlights how averages are influenced by the number of cities and population distribution, rather than size or wealth.
 - High urban concentration may refelct economic centralisation, where population and resources are clustered into a few major cities, which can distort comparisons and relationships between countries if not addressed. 
 <br>[View my full SQL script here](queries.md)
-<br>
+<br>The ERD shows how the country, city, and countrylanguage tables are connected through primary and foreign keys, supporting accurate JOIN-based analysis.
 
 **Database Schema ERD Diagram**
 <br> ![ERD Diagram](Country-ERD.png)
-<br> This diagram shows the relationships between the tables in the MySQL World dataset, including country, city, and countrylanguage. The ERD helped me understand how tables are connected through primary and foreign keys, which allowed me to write more accurate JOIN queries and analyse relational data effectively.
+<br> 
 
 ## 📊 Tableau
 ### Global Health and Life Expectancy Analysis in Tableau
