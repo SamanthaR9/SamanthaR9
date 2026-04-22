@@ -42,7 +42,6 @@ The World database contains relational data on countries, cities, and languages,
 In this project, I used SQL queries in MySQL Workbench to combine tables and calculate aggregated values such as averages, alongside filtering and grouping to identify patterns in global population data.
 
 <br>
-
 **Example Query:**
 <br>Identify countries with the highest average city population to compare urban density across regions and population distribution patterns across cities and countries.
 
