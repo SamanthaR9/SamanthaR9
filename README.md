@@ -25,7 +25,7 @@ The Pie Chart, Histogram and Bar Charts show that Grade A is the most frequent g
 My objective was to analyse a relational dataset to extract insights about countries, cities, and population trends using structured queries. I approached this by querying the MySQL World dataset using joins to combine tables, aggregations (such as COUNT and AVG), subqueries for deeper analysis, and filtering and grouping.<br>
 <br>
 **Example Query:**
-<br>Identify countries with the highest average city population to compare urban density across regions.
+<br>Identify countries with the highest average city population to compare urban density across regions and population distribution patterns across cities and countries.
 
 ```sql
 SELECT
